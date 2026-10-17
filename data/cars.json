@@ -1,0 +1,32 @@
+[
+  {
+    "id": "car-camry",
+    "name": "Toyota Camry",
+    "class": "sedan",
+    "turnaroundBufferHours": 4
+  },
+  {
+    "id": "car-accord",
+    "name": "Honda Accord",
+    "class": "sedan",
+    "turnaroundBufferHours": 4
+  },
+  {
+    "id": "car-model3",
+    "name": "Tesla Model 3",
+    "class": "sedan",
+    "turnaroundBufferHours": 8
+  },
+  {
+    "id": "car-rav4",
+    "name": "Toyota RAV4",
+    "class": "SUV",
+    "turnaroundBufferHours": 6
+  },
+  {
+    "id": "car-explorer",
+    "name": "Ford Explorer",
+    "class": "SUV",
+    "turnaroundBufferHours": 6
+  }
+]

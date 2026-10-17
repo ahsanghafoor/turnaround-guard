@@ -1,0 +1,101 @@
+[
+  {
+    "id": "bk-1001",
+    "carId": "car-camry",
+    "renterName": "Jordan Ellis",
+    "status": "confirmed",
+    "pickupAt": "2026-10-17T17:00:00.000Z",
+    "returnAt": "2026-10-18T11:00:00.000Z",
+    "actualReturnAt": null
+  },
+  {
+    "id": "bk-1002",
+    "carId": "car-camry",
+    "renterName": "Priya Raman",
+    "status": "confirmed",
+    "pickupAt": "2026-10-18T15:00:00.000Z",
+    "returnAt": "2026-10-20T03:00:00.000Z",
+    "actualReturnAt": null
+  },
+  {
+    "id": "bk-1003",
+    "carId": "car-accord",
+    "renterName": "Marcus Chen",
+    "status": "confirmed",
+    "pickupAt": "2026-10-19T07:00:00.000Z",
+    "returnAt": "2026-10-20T23:00:00.000Z",
+    "actualReturnAt": null
+  },
+  {
+    "id": "bk-1004",
+    "carId": "car-model3",
+    "renterName": "Sofia Alvarez",
+    "status": "confirmed",
+    "pickupAt": "2026-10-18T21:00:00.000Z",
+    "returnAt": "2026-10-19T21:00:00.000Z",
+    "actualReturnAt": null
+  },
+  {
+    "id": "bk-1005",
+    "carId": "car-model3",
+    "renterName": "Daniel Okafor",
+    "status": "confirmed",
+    "pickupAt": "2026-10-20T05:00:00.000Z",
+    "returnAt": "2026-10-21T05:00:00.000Z",
+    "actualReturnAt": null
+  },
+  {
+    "id": "bk-1006",
+    "carId": "car-rav4",
+    "renterName": "Hannah Weiss",
+    "status": "completed",
+    "pickupAt": "2026-10-16T09:00:00.000Z",
+    "returnAt": "2026-10-17T11:00:00.000Z",
+    "actualReturnAt": "2026-10-17T10:00:00.000Z"
+  },
+  {
+    "id": "bk-1007",
+    "carId": "car-rav4",
+    "renterName": "Kenji Nguyen",
+    "status": "confirmed",
+    "pickupAt": "2026-10-19T07:00:00.000Z",
+    "returnAt": "2026-10-20T07:00:00.000Z",
+    "actualReturnAt": null
+  },
+  {
+    "id": "bk-1008",
+    "carId": "car-rav4",
+    "renterName": "Elena Rossi",
+    "status": "confirmed",
+    "pickupAt": "2026-10-20T10:00:00.000Z",
+    "returnAt": "2026-10-21T09:00:00.000Z",
+    "actualReturnAt": null
+  },
+  {
+    "id": "bk-1009",
+    "carId": "car-explorer",
+    "renterName": "Maya Thompson",
+    "status": "confirmed",
+    "pickupAt": "2026-10-16T17:00:00.000Z",
+    "returnAt": "2026-10-17T18:00:00.000Z",
+    "actualReturnAt": null
+  },
+  {
+    "id": "bk-1010",
+    "carId": "car-explorer",
+    "renterName": "Liam Brooks",
+    "status": "confirmed",
+    "pickupAt": "2026-10-18T01:00:00.000Z",
+    "returnAt": "2026-10-19T01:00:00.000Z",
+    "actualReturnAt": null
+  },
+  {
+    "id": "bk-1011",
+    "carId": "car-explorer",
+    "renterName": "Ava Martinez",
+    "status": "confirmed",
+    "pickupAt": "2026-10-22T15:00:00.000Z",
+    "returnAt": "2026-10-23T21:00:00.000Z",
+    "actualReturnAt": null
+  }
+]
